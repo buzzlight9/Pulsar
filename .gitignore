@@ -3,6 +3,7 @@
 /public/storage
 /storage/*.key
 /vendor
+/Raw Files
 /.idea
 /.vscode
 /.vagrant
