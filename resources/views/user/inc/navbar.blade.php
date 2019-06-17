@@ -31,6 +31,9 @@
           @else
             
           @endif
+          <li class="nav-item">
+          <a href="{{route('admin.login')}}">ADMIN</a>
+          </li>
         </ul>
     </div>
   </div>

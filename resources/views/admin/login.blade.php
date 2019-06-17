@@ -9,7 +9,7 @@
   </div>
   <!-- /.login-logo -->
   <div class="login-box-body">
-    <p class="login-box-msg">Login</p>
+    <p class="login-box-msg">Admin Login</p>
 
     <form method="POST" action="{{ route('admin.login') }}">
         @csrf
