@@ -9,7 +9,7 @@
     </div>
     <!-- /.login-logo -->
     <div class="login-box-body">
-      <p class="login-box-msg">Login</p>
+      <p class="login-box-msg">Reset Password</p>
   
       <form method="POST" action="{{ route('password.email') }}">
           @csrf
@@ -39,7 +39,7 @@
   <!-- /.login-box -->
 
 
-  <div class="container">
+ <!-- <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
@@ -81,5 +81,5 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
 @endsection
