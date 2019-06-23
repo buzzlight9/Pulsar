@@ -1,6 +1,0 @@
-//* text=auto
-*.html linguist-vendored=PHP
-*.css linguist-vendored=php
-*.scss linguist-vendored=php
-*.js linguist-vendored=php
-CHANGELOG.md export-ignore
